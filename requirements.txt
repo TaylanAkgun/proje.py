@@ -8,7 +8,6 @@ matplotlib==3.7.2
 missingno==0.5.2
 seaborn==0.12.2
 pillow==10.0.1
-streamlit==1.29.0
 streamlit-camera-input-live==0.2.0
 streamlit-card==1.0.0
 streamlit-embedcode==0.1.2
