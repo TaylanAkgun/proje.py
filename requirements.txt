@@ -17,4 +17,4 @@ streamlit-image-coordinates==0.1.6
 streamlit-keyup==0.2.2
 streamlit-toggle-switch==1.0.2
 streamlit-vertical-slider==2.5.5
-pickle == 3.11.5
+
