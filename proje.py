@@ -5,8 +5,6 @@ import pandas as pd
 import requests
 import pickle
 import base64
-from streamlit_extras.colored_header import colored_header
-from streamlit_extras.app_logo import add_logo
 from PIL import Image
 from plotly import graph_objects as go
 import plotly.express as px
